@@ -1,0 +1,11 @@
+https://github.com/OneTesseractInMultiverse/FastAPI-NATS
+
+NATS Cluster Setup
+https://github.com/nats-io/k8s#helm-charts-for-nats
+https://github.com/nats-io/nats-operator
+https://docs.nats.io/nats-on-kubernetes/minimal-setup
+
+NATS Library
+https://github.com/nats-io/nats.py
+
+
